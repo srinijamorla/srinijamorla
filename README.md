@@ -20,4 +20,6 @@ I'm a software engineer with 3.6 years of experience in Python and AI. I love bu
   <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
-
+### 📊 GitHub Stats:  
+![Srinija's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinijamorla&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srinijamorla&layout=compact&theme=radical)  
