@@ -23,3 +23,8 @@ I'm a software engineer with 3.6 years of experience in Python and AI. I love bu
 ### 📊 GitHub Stats:  
 ![Srinija's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinijamorla&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srinijamorla&layout=compact&theme=radical)  
+
+<img src="https://streak-stats.demolab.com?user=srinijamorla&theme=radical" alt="GitHub Streak" />
+
+
+
